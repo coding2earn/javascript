@@ -1,0 +1,1 @@
+z='Buzz';for(i=1;i++<100;)console.log(i%3?i%5?i:z:'Fizz'+(i%5?'':z));
